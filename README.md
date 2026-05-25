@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Narayan Sharma 👋
 
-<!--
-**advoracore-pixel/advoracore-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent software developer and the founder of **Lunor Tech**, based in Rajasthan, India. I focus on building intuitive, distraction-free digital tools that give students a practical academic advantage.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Building
+* **Advora:** A study-oriented social learning platform with a custom direct data transfer mechanism (DataX).
+* **Quizzy AI:** An AI-powered student assessment tool using the Iris dashboard and API systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Tools
+* **Languages:** JavaScript, HTML5, CSS3
+* **Backend & Cloud:** Firebase, Google Apps Script
+* **Focus:** Hybrid Mobile Applications, EdTech, Minimalist UI/UX
+
+📫 **Reach me at:** [Your Professional Email]
+🌍 **Portfolio:** [lunor-tech-web.vercel.app](https://lunor-tech-web.vercel.app)
